@@ -1,0 +1,28 @@
+
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: rgb(0, 128, 0);
+}
+a{
+    color: rgb(255,0,0);
+    border-radius: 20px;
+    background-color: rgb(0, 128, 0);
+    display: block;
+}
+p{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: rgb(0, 128, 0);
+}
+img{
+    height: 370px;
+    width: 1843px;
+    border-radius: 20px;
+}
+body{
+    background-image:url(fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

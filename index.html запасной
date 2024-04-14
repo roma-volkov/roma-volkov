@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>НОВОСТИ СПОРТА</h1>
+        <p>всю информацию о сайте можно узнать по номеру телефона 8 927 915 83 51</p>
+       <img src="f.jpg">
+       <img src="b.jpg">
+       <img src="t.jpg">
+       <img src="p.jpg">
+       <img src="b2.jpg">
+        <a href="catalog.html">ПЕРЕЙТИ В КАТАЛОГ</a>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+    <h1>КАТАЛОГ</h1>
+    <ul>
+        <li><a href="index.html">главная</a></li>
+        <li><a href="threev.html">новости футбола</a></li>
+        <li><a href="fourv.html">новости баскетболла</a></li>
+        <li><a href="fivev.html">новости тенниса</a></li>
+        <li><a href="sixv.html">новости плавания</a></li>
+        <li><a href="sevenv.html">новости бокса</a></li>
+    </ul>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>НОВОСТИ ФУТБОЛА</h1>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="two.html"></a></h1>
+        <h1>следующая<a href="threen.html"></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="threev.html"></a></h1>
+        <h1>следующая<a href=""></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>НОВОСТИ БАСКЕТБОЛА</h1>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="two.html"></a></h1>
+        <h1>следующая<a href="fourn.html"></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="fourv.html"></a></h1>
+        <h1>следующая<a href=""></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>НОВОСТИ ТЕННИСА</h1>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="two.html"></a></h1>
+        <h1>следующая<a href="fiven.html"></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="fivev.html"></a></h1>
+        <h1>следующая<a href=""></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>НОВОСТИ ПЛАВАНЬЯ</h1>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="two.html"></a></h1>
+        <h1>следующая<a href="sixn.html"></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="sixv.html"></a></h1>
+        <h1>следующая<a href=""></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>НОВОСТИ БОКСА</h1>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="two.html"></a></h1>
+        <h1>следующая<a href="sevenn.html"></a></h1>
+    </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <p></p>
+        <p></p>
+        <img src="" alt="">
+        <p></p>
+        <p></p>
+        <h1>предыдущая<a href="sevenv.html"></a></h1>
+        <h1>следующая<a href=""></a></h1>
+    </main>
+</body>
+</html>
+
+<div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        one{
+    background-image:url(f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+two{
+    background-image:url(b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+three{
+    background-image:url(t.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+four{
+    background-image:url(p.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+five{
+    background-image:url(b2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
